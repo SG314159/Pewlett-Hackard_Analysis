@@ -9,7 +9,7 @@ In this module, we analyze a dataset for a fictious company Pewlett-Hackard. The
 ## Results
 Employees with birthdays in the years 1952-1955 were counted for retiring. The list below shows the title of current employees who will be retiring and the counts for each job title.
 
-![Retiring Employees Grouped by Title](link to png here after pushing to repo)
+![Retiring Employees Grouped by Title](https://github.com/SG314159/Pewlett-Hackard_Analysis/blob/main/Data/retiring_titles.PNG)
 
 There is a total of 90,398 employees retiring soon.
 
@@ -64,7 +64,7 @@ ORDER BY COUNT(title) DESC;
 ```
 
 The results are shown here.
-![Non-retiring Employees Grouped by Title](link to png here after pushing to repo)
+![Non-retiring Employees Grouped by Title](https://github.com/SG314159/Pewlett-Hackard_Analysis/blob/main/Data/nonretiring_titles.PNG)
 
 Comparing the number for the titles retiring (above) and titles of non-retiring employees, it is evident that the 14,222 Engineers retiring should immediately start mentoring the 8,403 Assistant Engineers that are not-retiring. There are no non-retiring employees with the title of Engineer, so it makes the best sense to train current Assistant Engineers to fill those rolls and focus on hiring younger, assistant engineers.
 
